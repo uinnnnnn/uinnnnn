@@ -1,11 +1,17 @@
 # UNI0155
-### Hi there 👋
 
-I'm a 
+ <!-- dynamic typing effect 動態打字效果 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hi there 👋&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+<!--- 技術整合 ---->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<!--- 技術整合
+![info](https://github-readme-stats.vercel.app/api?username=uinnnnnn&show_icons=true&count_private=true&hide=prs&theme=default_repocard) ---->
 
-<!-- ### Find me -->
-
-- <https://github.com/uinnnnn>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=WeihanLi&show_icons=true&theme=dark&count_private=true) -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact) -->
