@@ -7,11 +7,11 @@
     </a>
   </div>
 <!--- 技術整合 ---->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
 <!--- 技術整合
 ![info](https://github-readme-stats.vercel.app/api?username=uinnnnnn&show_icons=true&count_private=true&hide=prs&theme=default_repocard) ---->
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
+<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div> -->
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=WeihanLi&show_icons=true&theme=dark&count_private=true) -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact) -->
@@ -21,8 +21,13 @@
 <p align="left">
 <a href="https://medium.com/@sumi143yy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sumi143yy" height="30" width="40" /></a>
 </p>
-
-[<img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Uni_015&layout=compact&theme=transparent">](https://wakatime.com/@Uni_015)
+<div>
+  <div align="left"> 
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />       </div>
+ 
+ [<img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Uni_015&layout=compact&theme=transparent">](https://wakatime.com/@Uni_015)
+ 
+</div>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
