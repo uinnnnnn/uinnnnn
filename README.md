@@ -22,7 +22,7 @@
 <a href="https://medium.com/@sumi143yy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sumi143yy" height="30" width="40" /></a>
 </p>
 
-[<img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndyYang&layout=compact&theme=transparent">](https://wakatime.com/@Uni_015)
+[<img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Uni_015&layout=compact&theme=transparent">](https://wakatime.com/@Uni_015)
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
