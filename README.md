@@ -16,8 +16,8 @@
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=WeihanLi&show_icons=true&theme=dark&count_private=true) -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact) -->
 
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **sumi143yy@gmail.com**
+<!-- <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **sumi143yy@gmail.com** -->
 <p align="left">
 <a href="https://medium.com/@sumi143yy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sumi143yy" height="30" width="40" /></a>
 </p>
