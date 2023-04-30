@@ -91,9 +91,8 @@ I am Yingrulin Lin,from Taiwan, currently studying at Providence University, maj
 
 <div>
   <div align="left"> 
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />       </div>
- wakatime
- [<img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Uni_015&layout=compact&theme=transparent">](https://wakatime.com/@Uni_015)
+     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uinnnnnn&langs_count=10&layout=compact&exclude_repo=security-challange-php-codeigniter&theme=transparent"></div>
+ <img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Uni_015&layout=compact&theme=transparent">
  
 </div>
 
