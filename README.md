@@ -93,7 +93,7 @@ I am Yingru-Lin Lin,from Taiwan
  </div>
 </div>
 
-[<img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndyYang&layout=compact&theme=transparent">](https://wakatime.com/@AndyYang)
+<!-- [<img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndyYang&layout=compact&theme=transparent">](https://wakatime.com/@AndyYang) -->
 
 [<img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Uni_015&layout=compact&theme=transparent">](https://wakatime.com/@Uni_015)
 
