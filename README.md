@@ -9,9 +9,9 @@
   
 <!-- 使用的標籤樣式https://shields.io/ -->
 
-I am Yingrulin Lin,from Taiwan, currently studying at Providence University, majoring in Computer Science. 
+I am Yingru-Lin Lin,from Taiwan
 
-我是林映如，來自台灣，目前就讀於靜宜大學，主修資訊工程學系。
+我是林映如，來自台灣
 
 <!-- Please visit my blog on and portfolio website on  !
 
