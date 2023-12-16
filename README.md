@@ -62,8 +62,8 @@ I am Yingru-Lin Lin,from Taiwan
 
 ## Design Tool Skills
 
-![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+ <!-- ![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
+![](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=figma&logoColor=white)
 <!-- ![](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
 ![](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white) -->
 
