@@ -62,8 +62,8 @@ I am Yingru-Lin Lin,from Taiwan
 
 ## Design Tool Skills
 
- <!-- ![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
-![](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 <!-- ![](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
 ![](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white) -->
 
@@ -88,19 +88,19 @@ I am Yingru-Lin Lin,from Taiwan
 
 
 <div>
-  <div align="left"> 
-   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uinnnnnn&exclude_repo=cf-stats&theme=transparent">
- </div>
+   <div align="left"> 
+     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uinnnnnn&exclude_repo=cf-stats&theme=transparent">
+   </div>
+  <div>
+    <img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Uni_015&layout=compact&theme=transparent&hide=Perl,Other">
+  </div>
 </div>
 
 <!-- [<img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndyYang&layout=compact&theme=transparent">](https://wakatime.com/@AndyYang) -->
 
 <!--[<img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Uni_015&layout=compact&theme=transparent">](https://wakatime.com/@Uni_015) -->
-
-[<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uinnnnnn&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
-[<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Uni_015&layout=compact&theme=transparent&hide=Perl,Other">](https://wakatime.com/@Uni_015)
-
-
+<!-- (https://wakatime.com/@Uni_015) -->
+<!--[<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uinnnnnn&layout=compact](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
